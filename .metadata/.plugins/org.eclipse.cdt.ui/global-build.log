@@ -1,0 +1,21 @@
+15:41:35 **** Incremental Build of configuration Debug for project FC-md ****
+make -j4 all 
+arm-none-eabi-size   FC-md.elf 
+   text	   data	    bss	    dec	    hex	filename
+  22960	    124	   1836	  24920	   6158	FC-md.elf
+Finished building: default.size.stdout
+ 
+15:41:37 **** Incremental Build of configuration Debug for project FC-md ****
+make -j4 all 
+arm-none-eabi-size   FC-md.elf 
+   text	   data	    bss	    dec	    hex	filename
+  22960	    124	   1836	  24920	   6158	FC-md.elf
+Finished building: default.size.stdout
+ 
+15:41:42 **** Incremental Build of configuration Debug for project FC-md ****
+make -j4 all 
+arm-none-eabi-size   FC-md.elf 
+   text	   data	    bss	    dec	    hex	filename
+  22960	    124	   1836	  24920	   6158	FC-md.elf
+Finished building: default.size.stdout
+ 
